@@ -5,20 +5,7 @@ Welcome to my GitHub profile! I'm passionate about coding and creating meaningfu
 
 ## GitHub Statistics
 
-![Amin's GitHub Stats](https://myreadme.vercel.app/api/embed/amineredasaf?panels=userstatistics&panels=toplanguages)
-
-
-## Top Languages
-
-Here's a breakdown of the programming languages I've been using in my repositories:
-
-![Top Languages](https://myreadme.vercel.app/api/embed/amineredasaf?panels=toplanguages)
-
-## Commit Graph
-
-Visualizing my commit history:
-
-![Commit Graph](https://myreadme.vercel.app/api/embed/amineredasaf?panels=commitgraph)
+![Amin's GitHub Stats](https://myreadme.vercel.app/api/embed/amineredasaf?panels=userstatistics&panels=toplanguages&panels=commitgraph)
 
 ## Get in Touch
 
