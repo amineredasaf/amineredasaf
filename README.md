@@ -17,6 +17,6 @@ Looking forward to connecting with fellow developers and creators!
 
 ## Get in Touch
 
-I'm always open to collaboration and networking. Feel free to connect with me on [LinkedIn](your-linkedin-profile) or follow me on [Twitter](your-twitter-profile).
+I'm always open to collaboration and networking. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/amineredasaf/) or follow me on [Twitter](twitter.com/amineredasaf).
 
 Looking forward to sharing and learning with the amazing GitHub community!
