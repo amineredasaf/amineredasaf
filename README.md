@@ -6,7 +6,7 @@ Welcome to my GitHub profile. I'm all about coding and creating meaningful proje
 <!-- - 🌱 I’m currently learning [new]. -->
 <!-- - 💬 Ask me about [Topic]. -->
 - 📫 How to reach me: [Email](redamine9@gmail.com), [LinkedIn](https://www.linkedin.com/in/amineredasaf/).
-- ⚡ Fun fact: [![Random Fun Fact](https://api.example.com/fun-fact)](https://api.example.com/fun-fact).
+- ⚡ Fun fact: [![Random cats Fact](https://catfact.ninja/fact)](https://catfact.ninja/fact).
 
 Looking forward to connecting with fellow developers and creators!
 
