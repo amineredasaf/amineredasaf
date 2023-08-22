@@ -1,5 +1,5 @@
 
-# Hi there, I'm Amin Redasaf! 👋
+# Hi there, I'm Amine Reda saf! 👋
 
 Welcome to my GitHub profile! I'm passionate about coding and creating meaningful projects. Here, you'll find some information about my GitHub statistics and top repositories.
 
